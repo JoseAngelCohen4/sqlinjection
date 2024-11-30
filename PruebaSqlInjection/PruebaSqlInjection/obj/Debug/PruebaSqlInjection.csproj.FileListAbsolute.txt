@@ -1,0 +1,10 @@
+C:\Users\Jose Angel\source\repos\PruebaSqlInjection\PruebaSqlInjection\bin\Debug\PruebaSqlInjection.exe.config
+C:\Users\Jose Angel\source\repos\PruebaSqlInjection\PruebaSqlInjection\bin\Debug\PruebaSqlInjection.exe
+C:\Users\Jose Angel\source\repos\PruebaSqlInjection\PruebaSqlInjection\bin\Debug\PruebaSqlInjection.pdb
+C:\Users\Jose Angel\source\repos\PruebaSqlInjection\PruebaSqlInjection\obj\Debug\PruebaSqlInjection.csproj.AssemblyReference.cache
+C:\Users\Jose Angel\source\repos\PruebaSqlInjection\PruebaSqlInjection\obj\Debug\PruebaSqlInjection.Form1.resources
+C:\Users\Jose Angel\source\repos\PruebaSqlInjection\PruebaSqlInjection\obj\Debug\PruebaSqlInjection.Properties.Resources.resources
+C:\Users\Jose Angel\source\repos\PruebaSqlInjection\PruebaSqlInjection\obj\Debug\PruebaSqlInjection.csproj.GenerateResource.cache
+C:\Users\Jose Angel\source\repos\PruebaSqlInjection\PruebaSqlInjection\obj\Debug\PruebaSqlInjection.csproj.CoreCompileInputs.cache
+C:\Users\Jose Angel\source\repos\PruebaSqlInjection\PruebaSqlInjection\obj\Debug\PruebaSqlInjection.exe
+C:\Users\Jose Angel\source\repos\PruebaSqlInjection\PruebaSqlInjection\obj\Debug\PruebaSqlInjection.pdb
